@@ -1,0 +1,11 @@
+C:\puntonet\vs2017\Leer_Api\Leer_Api\bin\Debug\Leer_Api.exe.config
+C:\puntonet\vs2017\Leer_Api\Leer_Api\bin\Debug\Leer_Api.exe
+C:\puntonet\vs2017\Leer_Api\Leer_Api\bin\Debug\Leer_Api.pdb
+C:\puntonet\vs2017\Leer_Api\Leer_Api\bin\Debug\Newtonsoft.Json.dll
+C:\puntonet\vs2017\Leer_Api\Leer_Api\bin\Debug\Newtonsoft.Json.pdb
+C:\puntonet\vs2017\Leer_Api\Leer_Api\bin\Debug\Newtonsoft.Json.xml
+C:\puntonet\vs2017\Leer_Api\Leer_Api\obj\Debug\Leer_Api.csprojAssemblyReference.cache
+C:\puntonet\vs2017\Leer_Api\Leer_Api\obj\Debug\Leer_Api.csproj.CoreCompileInputs.cache
+C:\puntonet\vs2017\Leer_Api\Leer_Api\obj\Debug\Leer_Api.csproj.CopyComplete
+C:\puntonet\vs2017\Leer_Api\Leer_Api\obj\Debug\Leer_Api.exe
+C:\puntonet\vs2017\Leer_Api\Leer_Api\obj\Debug\Leer_Api.pdb
